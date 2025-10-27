@@ -4,8 +4,6 @@ description: Suggested topics for an essay assignment.
 file: /courses/21l-707-writing-early-american-lives-gender-race-nation-faith-fall-2005/3a1a81aab3d6321c3c5c1c2c74f84c22_firstessay21l707.pdf
 file_size: 17494
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

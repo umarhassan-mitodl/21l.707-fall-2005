@@ -2,8 +2,6 @@
 content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, requirements, and grading.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -36,7 +34,7 @@ The written work for the subject will include two shorter essays (4-6 pages) and
 
 Please remember, if you cite outside material ("secondary sources") in your writing, that you must acknowledge them in a footnote or other appropriate format, sources which **must** be acknowledged include not only other books but introductions to our editions and material on the Web. Consult me if you have any questions about appropriate use or citation format. Writing is almost always a collaborative process at some level, but failure to respect the intellectual property of others counts as plagiarism.
 
-Plagiarism - Use of another's intellectual work without acknowledgement - is a serious offense. It is the policy of the Literature Faculty that students who plagiarise will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution consult the style guides available in the Writing and Communication Center, and the MIT Web site on Plagiarism located at [Citing and Using Sources](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/).
+Plagiarism - Use of another's intellectual work without acknowledgement - is a serious offense. It is the policy of the Literature Faculty that students who plagiarise will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution consult the style guides available in the Writing and Communication Center, and the MIT Web site on Plagiarism located at {{% resource_link "361b3d88-b9f5-477a-926f-058ef1ba6689" "Citing and Using Sources" %}}.
 
 Grade
 -----
